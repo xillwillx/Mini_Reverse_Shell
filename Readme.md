@@ -1,8 +1,12 @@
-บ                  File     :         Mini Reverse Shell
-บ                  Language :    Win32 ASM
-บ                  FileSize :       2kb
-บ                  D.O.B.   :       February 23, 2006  
-บ                  Description: CMD line reverse shell in masm that shovels a shell back to your host:port
+Account moved to: https://gitlab.com/illwill 
+
+
+
+ยบ                  File     :         Mini Reverse Shell
+ยบ                  Language :    Win32 ASM
+ยบ                  FileSize :       2kb
+ยบ                  D.O.B.   :       February 23, 2006  
+ยบ                  Description: CMD line reverse shell in masm that shovels a shell back to your host:port
 
 I made this in 2006 for use in exploiting a system, once executed this shovels a CMD shell back to
 the attacker's netcat listener
